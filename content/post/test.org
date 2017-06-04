@@ -1,0 +1,13 @@
+#+TITLE: test
+#+DATE: 2017-06-04T15:22:00+08:00
+#+PUBLISHDATE: 2017-06-04T15:22:00+08:00
+#+DRAFT: nil
+#+TAGS: test
+#+DESCRIPTION: hugo test
+
+* Welcome to hugo
+
+#+BEGIN_SRC quote
+少年读书如隙中窥月，中年读书如庭中望月，老年读书如台上玩月，皆以阅历之浅深为所得之浅深耳。
+    ——张潮
+#+END_SRC
