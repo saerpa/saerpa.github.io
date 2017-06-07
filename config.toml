@@ -23,6 +23,12 @@ SectionPagesMenu = "main"
   identifier = "tag"
   url = "/tags/"
 
+[[menu.main]]
+  name = "Categories"
+  weight = -100
+  identifier = "category"
+  url = "/categories/"
+
 [author]
   name = "saerpa"
 
