@@ -5,7 +5,7 @@ cd ./public;
 git add --all;
 git commit -m "pages update";
 #git push -f origin gh-pages;
-git push coding pages:master;
+git push coding master:master;
 
 cd ~/blog/saerpa;
 git add --all;
